@@ -1,0 +1,47 @@
+<details>
+				<summary>Show some single-line Unicode Art</summary>
+               <a href="http://copypastecharacter.com/iphone">http://copypastecharacter.com/iphone</a><br>
+               <a href="http://www.unicodemap.org/">http://www.unicodemap.org/</a><br>
+               <a href="http://www.emoji-cheat-sheet.com/">http://www.emoji-cheat-sheet.com/</a><br>
+               <a href="http://brajeshwar.github.com/entities/">http://brajeshwar.github.com/entities/</a><br>
+               <a href="http://adamvarga.com/strike/">http://adamvarga.com/strike/</a><br>
+               <a href="http://fsymbols.com/">http://fsymbols.com/</a><br>
+               <a href="http://www.grumdrig.com/emoji-list/">http://www.grumdrig.com/emoji-list/</a><br>
+               <a href="http://character-code.com/emoticons-html-codes.php">http://character-code.com/emoticons-html-codes.php</a><br>
+               <a href="http://www.font.su/">http://www.font.su/</a><br>
+               <a href="http://overapi.com/unicode/">http://overapi.com/unicode/</a><br>
+               <a href="http://mothereff.in/twitalics">http://mothereff.in/twitalics</a><br />
+               <a href="http://smileyfor.eu/">http://smileyfor.eu/</a><br />
+               <a href="http://iwantaneff.in/star/">http://iwantaneff.in/star/</a><br />
+               <a href="http://iwantaneff.in/flower/">http://iwantaneff.in/flower/</a><br />
+               <a href="http://iwantaneff.in/smiley/">http://iwantaneff.in/smiley/</a><br />
+               <a href="http://unicodinator.com/">http://unicodinator.com/</a><br />
+               <a href="http://www.ftrain.com/unicode/">http://www.ftrain.com/unicode/ &lt;&lt; Unicode Table for You</a><br />
+               <a href="http://pieisgood.org/tools/unicode-escape.html">http://pieisgood.org/tools/unicode-escape.html</a><br />
+               <a href="http://mothereff.in/punycode">http://mothereff.in/punycode</a><br />
+               <a href="http://mothereff.in/byte-counter">http://mothereff.in/byte-counter</a><br />
+               <a href="http://&#9731;.net">?.net</a><br />
+               <a href="http://unicodesnowmanforyou.com/">http://unicodesnowmanforyou.com/</a><br />
+               <a href="http://thenextweb.com/2008/09/16/twitterkeys-enhance-your-twitter-conversations/">http://thenextweb.com/2008/09/16/twitterkeys-enhance-your-twitter-conversations/</a><br />
+               <a href="http://shapecatcher.com/">http://shapecatcher.com/</a><br />
+               <a href="http://leaverou.me/scripts/unicode.html">http://leaverou.me/scripts/unicode.html</a><br />
+               <a href="http://closure-library.googlecode.com/svn/trunk/closure/goog/demos/charpicker.html">http://closure-library.googlecode.com/svn/trunk/closure/goog/demos/charpicker.html</a><br />
+               <a href="http://copypastecharacter.com/">http://copypastecharacter.com/</a><br />
+               <a href="http://xn--n3h.net/">http://xn--n3h.net/</a><br />
+               <a href="http://www.alanwood.net/unicode/miscellaneous_symbols.html">http://www.alanwood.net/unicode/miscellaneous_symbols.html</a><br />
+               <a href="http://unicode.coeurlumiere.com/">http://unicode.coeurlumiere.com/</a><br />
+               <a href="http://www.unicodeart.com/">http://www.unicodeart.com/</a><br />
+               <a href="http://www.unicodetools.com/">http://www.unicodetools.com/</a><br />
+               <a href="http://unicode.org/resources/online-tools.html">http://unicode.org/resources/online-tools.html</a><br />
+               <a href="http://fsymbols.com/">http://fsymbols.com/</a><br />
+               <a href="http://facebook-symbols.com/all/">http://facebook-symbols.com/all/</a><br />
+               <a href="http://bit.ly/rcwyyh">http://bit.ly/rcwyyh</a><br />
+               <a href="https://addons.mozilla.org/en-Us/firefox/addon/unicode-input-toolconverter/">https://addons.mozilla.org/en-Us/firefox/addon/unicode-input-toolconverter/</a><br />
+               <a href="http://www.rishida.net/tools/conversion/">http://www.rishida.net/tools/conversion/</a><br />
+               <a href="http://www.fritziegm.com/special-characters-unicode-symbolss-and-ascii-art-shapes/">http://www.fritziegm.com/special-characters-unicode-symbolss-and-ascii-art-shapes/</a><br />
+               <a href="http://www.unicodemap.org/">http://www.unicodemap.org/</a><br />
+               <a href="http://stephenbrooks.org/misc/unicode/index.htm">http://stephenbrooks.org/misc/unicode/index.htm</a><br />
+               <a href="http://jsfiddle.net/paul/XqvYE/1/show/">http://jsfiddle.net/paul/XqvYE/1/show//</a><br />
+               <a href="http://twitter.com/#!/UnicodeSmily">http://twitter.com/#!/UnicodeSmily</a><br />
+               <a href="http://bradchoate.github.com/unicons/">http://bradchoate.github.com/unicons/</a><br />
+</details>
