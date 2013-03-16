@@ -3,13 +3,13 @@
 
 ### ASCII is offically dead
 
-[![Foo](http://edanhewitt.eiremedia.netdna-cdn.com/wp-content/uploads/2012/07/unilogo.png)](http://u-n-i.co/de/)
+[![Foo](http://f.cl.ly/items/3j262I102m2D1u0F0b2s/Image%202013-03-16%20at%208.41.54%20PM.png)](http://unicod.es/)
 
 Author: David Higgins
 
-Website: [http://u-n-i.co/de/](http://u-n-i.co/de/)
+Website: [http://unicod.es/](http://unicod.es/)
 
-Last Updated: Thursday, March 08, 2012
+Last Updated: Saturday, March 16, 2012
 
 You are browsing the Github home of **Unitools**
 
