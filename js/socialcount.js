@@ -52,7 +52,7 @@
 			touch: 'touch',
 			hover: 'hover',
 			noTransforms: 'no-transforms',
-			showCounts: 'counts',
+			showCounts: 'false',
 			countContent: 'count',
 			minCount: 'minimum',
 			activateOnHover: 'activate-on-hover',
