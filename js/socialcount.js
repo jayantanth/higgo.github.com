@@ -125,7 +125,7 @@
 
 			if( !cache[ url ] ) {
 				cache[ url ] = $.ajax({
-					url: resolveServiceDir() + SocialCount.serviceUrl,
+					url: SocialCount.serviceUrl,
 					data: {
 						url: url
 					},
