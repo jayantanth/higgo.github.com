@@ -3,7 +3,7 @@
 
 	var $loadingIndicator,
 		$count;
-
+ 
 	function featureTest( prop, unprefixedProp ) {
 		var style = doc.createElement('social').style,
 			prefixes = 'webkit Moz o ms'.split(' ');
